@@ -201,7 +201,7 @@ nav {
       rgb(102 51 153) 0%,
       rgb(25 22 23 / 80%) 100%
     ),
-    url(static\images\fondo-abstracto-cuadros-coloridos_144290-53.png) center no-repeat;
+    url(static\images\fondo.png) center no-repeat;
   background-size: contain;
   position: relative;
 }
